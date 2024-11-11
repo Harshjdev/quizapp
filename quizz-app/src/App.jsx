@@ -15,11 +15,12 @@ function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
-          <Route path="*" element={<NoPage />} />
+          <Route path="*" element={<NoPage/>} />
           <Route path="/quiz" element={<Quiz />} />
         </Route>
       </Routes>
     </BrowserRouter>
+    //this comment added from harsh
   )
 }
 
