@@ -8,6 +8,7 @@ import NoPage from './pages/NoPage';
 import Quiz from './pages/Quiz';
 
 //this is the comment added from harsh side
+//this is the second comment added by harsh
 function App() {
 
   return (
