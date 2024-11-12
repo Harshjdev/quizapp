@@ -9,6 +9,7 @@ import Quiz from './pages/Quiz';
 
 //this is the comment added from harsh side
 //this is the second comment added by harsh
+//third comment
 function App() {
 
   return (
