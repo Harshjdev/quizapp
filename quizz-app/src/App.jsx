@@ -7,7 +7,7 @@ import Home from './pages/Home';
 import NoPage from './pages/NoPage';
 import Quiz from './pages/Quiz';
 
-
+//this is the comment added from harsh side
 function App() {
 
   return (
